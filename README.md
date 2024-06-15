@@ -2,14 +2,19 @@
 
 ## Overview
 
-This project is a movie platform implemented in C, designed for managing and streaming movies. The platform provides a robust and efficient way to handle a collection of movies, including functionalities for adding, deleting, and searching for movies.
+This project is a movie platform implemented in C, designed for managing and streaming movies. The platform provides a robust and efficient way to handle a collection of movies, including functionalities for adding, deleting, and searching for movies. This project is made using complex Tree Data structures like Leaf-Oriented trees and AVL Binary Trees.
 
 ## Features
 
+- **Register Users**: Registers new User into the Platform.
+- **UnRegister User**: Deletes a User from the Platform.
 - **Add Movies**: Insert new movies into the database.
 - **Delete Movies**: Remove movies from the database.
+- **Distribute Movies**: Categorizies the movies based on the Type of movie.
+- **Filter Movies**: Shows all the movies that have a rating greater than the Chosen one.
 - **Search Movies**: Find movies by title or genre.
 - **Stream Movies**: Stream movies directly from the platform.
+
 
 ## Installation
 
